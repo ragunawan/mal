@@ -1,0 +1,15 @@
+Script started on Thu Jan 23 10:11:16 2020
+[31mWARNING![39m Your terminal appears to support fewer than 256 colors!
+If your terminal supports 256 colors, please export the appropriate environment variable
+_before_ loading this theme in your ~/.zshrc. In most terminal emulators, putting
+[34mexport TERM="xterm-256color"[39m at the top of your ~/.zshrc is sufficient.
+[1m[3m%[23m[1m[0m                                                                                                                                                   k..al/overflow-c\[0m[23m[24m[J[39m[39m[0m[49m[44m [30m~/Projects/mal/overflow-c [42m[34m [30m master ? [49m[32m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[122C[1A[39m[0m[49m[30m[39m[40m[32m [32m✔ [39m[39m[39m[49m[30m 357 [39m[37m[39m[47m[30m 10:11:17[K[00m[1B[39m[49m[142D[?1h=[?2004h../memleak[1m [0m[0m "%x %x %x end of input" tht is  >> memleak.out[14D              [15D >> memleak.out[45D                             [2C              [45D%x %x %x end of input" tht is  >> memleak.out[14D              [15D[1C     %end of input"[13Dxend of input"[13D end of input"[13D%end of input"[13Dxend of input"[13D end of input"[13D[?1l>[?2004l
+k./memleak\argc=2
+120a8 0 343600f0 130a8 0 end of input
+[1m[3m%[23m[1m[0m                                                                                                                                                   k..al/overflow-c\[0m[23m[24m[J[39m[39m[0m[49m[44m [30m~/Projects/mal/overflow-c [42m[34m [30m master ? [49m[32m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[120C[1A[39m[0m[49m[31m[39m[41m[39m 1[39m ↵ [39m[39m[39m[49m[30m 358 [39m[37m[39m[47m[30m 10:11:41[K[00m[1B[39m[49m[142D[?1h=[?2004h[?2004l
+[1m[3m%[23m[1m[0m                                                                                                                                                   k..al/overflow-c\[0m[23m[24m[J[39m[39m[0m[49m[44m [30m~/Projects/mal/overflow-c [42m[34m [30m master ? [49m[32m[39m 
+[1m[30m[43m $[0m[30m[43m[39m[49m[33m [39m[K[112C[1A[39m[0m[49m[31m[39m[41m[39m SIGINT(2)[39m ↵ [39m[39m[39m[49m[30m 358 [39m[37m[39m[47m[30m 10:11:43[K[00m[1B[39m[49m[142D[?1h=[?2004h[?2004l
+
+Script done on Thu Jan 23 10:11:49 2020
