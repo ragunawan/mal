@@ -1,4 +1,4 @@
-# mal
+# malware
 files for malware and software vulnerability course.
 
 language used: mostly c
